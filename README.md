@@ -2,7 +2,7 @@
 ### Senior Java Software Engineer | Distributed Systems | Cloud Architecture  
 
 📍 Yerevan, Armenia  
-📧 aharutyunyan@griddynamics.com  
+📧 mailtoharutyunyan@gmail.com
 📱 +374 77 979533  
 🔗 [LinkedIn](https://www.linkedin.com/in/arayik-harutyunyan/)  
 
