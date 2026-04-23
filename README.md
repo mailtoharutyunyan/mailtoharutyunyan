@@ -1,230 +1,546 @@
-# Arayik Harutyunyan
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mailtoharutyunyan.mailtoharutyunyan&left_color=%23192a56&right_color=%23e84118" />
 
-### Senior Java Software Engineer | Cloud-Native & AI/ML Search Specialist
+<div align="center">
 
-**Yerevan, Armenia**
-[mailtoharutyunyan@gmail.com](mailto:mailtoharutyunyan@gmail.com) | +374 77 979533
-[LinkedIn](https://www.linkedin.com/in/arayik-harutyunyan/) | [GitHub](https://github.com/mailtoharutyunyan)
+# Hi, I'm Arayik Harutyunyan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E84118&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Senior+Java+Software+Engineer+%7C+6%2B+Years;Cloud-Native+%E2%80%A2+AI%2FML+Search+%E2%80%A2+Microservices+Architect" alt="Typing SVG" /></a>
 
-## Professional Summary
+<br/>
 
-Results-driven **Senior Java Engineer** with 6+ years of experience architecting and delivering scalable, resilient backend systems across fintech, media, healthcare, retail, and e-commerce domains. Currently building enterprise-grade **semantic search and AI-powered platforms** at Grid Dynamics for HelloFresh, leveraging AWS Bedrock, OpenSearch, and LangChain4j. Proven track record in **leading technical teams**, modernizing legacy platforms, and driving **cloud-native transformations** on AWS and GCP. Combines deep hands-on expertise with architectural vision to build high-performance, secure, and maintainable solutions aligned with business goals.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arayik-harutyunyan/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailtoharutyunyan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mailtoharutyunyan)
+[![Phone](https://img.shields.io/badge/%2B374_77_979533-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+37477979533)
+[![Location](https://img.shields.io/badge/Yerevan,_Armenia-FF4500?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
----
-
-## Key Achievements
-
-- **Built an enterprise semantic search platform** for HelloFresh using AWS Bedrock embeddings, OpenSearch KNN, and a multi-stage search pipeline handling query comprehension, vector search, and rule-based ranking across multiple markets.
-- **Developed a shelf-out management system** for Home Depot retail stores across the US, enabling real-time QR-code-based inventory restocking workflows for store workers.
-- **Led the migration** of a monolithic healthcare platform to a **microservices architecture**, improving deployment frequency by **40%** and reducing time-to-market for new features.
-- **Designed and implemented** an event-driven distribution pipeline for Warner Music Group, handling **millions of metadata transactions daily** with sub-second latency.
-- **Mentored and coached** a team of 5 developers, conducting code reviews, architecture discussions, and knowledge-sharing sessions.
+</div>
 
 ---
 
-## Technical Expertise
+<div align="center">
 
-### Core Languages & Frameworks
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-![Java](https://img.shields.io/badge/Java-17%20%7C%2011%20%7C%208-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot%204-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+</div>
 
-### AI/ML & Search
+```java
+public class ArayikHarutyunyan {
 
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+    private static final String ROLE = "Senior Java Software Engineer";
+    private static final String COMPANY = "Grid Dynamics";
+    private static final String LOCATION = "Yerevan, Armenia";
+    private static final int YEARS_OF_EXPERIENCE = 6;
 
-- **AI/ML**: AWS Bedrock (Titan Embed Text v2, Claude 3 Haiku), Google Gemini, LangChain4j
-- **Search**: Semantic/Vector Search (KNN), Query Comprehension, Faceted Search, Auto-Complete
-- **Communication**: gRPC, Protocol Buffers
+    private final List<String> domains = List.of(
+        "E-Commerce (HelloFresh)", "Retail (Home Depot)",
+        "Healthcare (ClinicMind)", "Media (Warner Music Group)",
+        "FinTech (EGS)", "Enterprise (Teletronics)"
+    );
 
-### Architecture & Design Patterns
+    private final List<String> currentFocus = List.of(
+        "Semantic Search & AI-Powered Platforms",
+        "AWS Bedrock & LangChain4j Integration",
+        "Microservices Architecture & Cloud-Native Systems",
+        "High-Performance Search Pipelines with OpenSearch"
+    );
 
-- **Microservices** | **Event-Driven Architecture** | **CQRS** | **Domain-Driven Design**
-- **RESTful APIs** | **OpenAPI/Swagger** | **API Gateway** | **gRPC**
-- **Security**: OAuth2, OIDC, JWT, Keycloak, Okta
-- **Messaging**: Kafka, RabbitMQ, AWS SQS/SNS
+    public String motto() {
+        return "Engineering scalable systems. Designing for performance. "
+             + "Delivering production-ready solutions.";
+    }
+}
+```
 
-### Databases
+<div align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Professional Summary
 
-- **Aurora RDS** | **Snowflake** | **OpenSearch** | **Liquibase** | **Flyway**
+</div>
 
-### Cloud & DevOps
+<table>
+<tr>
+<td>
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+Results-driven **Senior Java Engineer** with **6+ years** of experience architecting and delivering scalable, resilient backend systems across **fintech, media, healthcare, retail, and e-commerce** domains. Currently building enterprise-grade **semantic search and AI-powered platforms** at **Grid Dynamics** for HelloFresh, leveraging **AWS Bedrock, OpenSearch, and LangChain4j**. Proven track record in leading technical teams, modernizing legacy platforms, and driving cloud-native transformations on **AWS and GCP**.
 
-- **AWS**: EC2, EKS, Lambda, API Gateway, S3, SQS, SNS, SES, CloudWatch, Bedrock, KMS, Secrets Manager
-- **GCP**: GKE, Cloud Build, Cloud Run, Cloud Functions, Pub/Sub, GCS
-- **Testing**: JUnit 5, TestContainers, Mockito, JMeter, K6
-
-### Frontend & Web Technologies
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## Professional Experience
+<div align="center">
 
-### Senior Software Engineer — Grid Dynamics (HelloFresh)
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack & Expertise
 
-*10/2025 – Present* | Semantic Search & AI Platform
+</div>
 
-Built an enterprise-grade semantic search and merchandising platform (MXP) for HelloFresh, providing advanced full-text and vector-based semantic search, query comprehension with NLU, merchandising rules engine, auto-complete, and visual search across multiple markets.
+<div align="center">
 
-- **Developed the multi-stage search pipeline** (Discovery service) with configurable stages including query comprehension, vector search, rule-based ranking, and fallback mechanisms.
-- **Implemented semantic search** using AWS Bedrock embeddings (Titan Embed Text v2) and OpenSearch KNN for natural language product discovery.
-- **Contributed to multiple microservices**: Discovery, Query Understanding, Merchandising Rule Service, Indexer, and Vector Search Server.
-- **Developed query comprehension features** using semantic graph processing to understand user intent and map queries to product attributes.
-- **Implemented multi-tenancy** with per-tenant configurations and hot-reload capability from AWS S3.
-- **Integrated gRPC-based communication** with the Rule-Based Ranking Engine for real-time result re-ranking.
-- **Conducted performance testing** using JMeter and K6, optimizing search response times and throughput.
+### Primary Language
 
-**Tech:** Java 17, Spring Boot 4, OpenSearch 2.18, Elasticsearch 7.17, AWS Bedrock, LangChain4j, gRPC, GKE, Docker, Kubernetes, Helm, GitHub Actions
+<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" width="65" alt="Java" /></a>
+
+<img src="https://img.shields.io/badge/Java-6%2B_Years_|_Core_Expertise-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+</div>
+
+<details>
+<summary><b>Languages & Frameworks</b> (click to expand)</summary>
+<br/>
+<div align="center">
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,kotlin,typescript,spring,nodejs,angular,react&perline=7" />
+</a>
+
+<br/><br/>
+
+![Java 17](https://img.shields.io/badge/Java-17%20%7C%2011%20%7C%208-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![JAX-RS](https://img.shields.io/badge/JAX--RS-FF4500?style=flat-square&logo=java&logoColor=white)
+![Angular 15](https://img.shields.io/badge/Angular_15-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>AI/ML & Search</b> (click to expand)</summary>
+<br/>
+<div align="center">
+
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Titan Embeddings](https://img.shields.io/badge/Titan_Embed_Text_v2-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Claude 3](https://img.shields.io/badge/Claude_3_Haiku-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain4j](https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch_2.18-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch_7.17-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search_(KNN)-FF6F00?style=flat-square&logo=apache&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-8B5CF6?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Dialogflow_|_Rasa-FF6F00?style=flat-square&logo=google&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
+![Protocol Buffers](https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat-square&logo=google&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>Databases & Data</b> (click to expand)</summary>
+<br/>
+<div align="center">
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=5" />
+</a>
+
+<br/><br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Aurora RDS](https://img.shields.io/badge/Aurora_RDS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=flat-square&logo=liquibase&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>Cloud & DevOps</b> (click to expand)</summary>
+<br/>
+<div align="center">
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,githubactions&perline=6" />
+</a>
+
+<br/><br/>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square&logo=amazonapigateway&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![KMS](https://img.shields.io/badge/KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GKE](https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Build](https://img.shields.io/badge/Cloud_Build-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>Architecture & Patterns</b> (click to expand)</summary>
+<br/>
+<div align="center">
+
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=flat-square)
+![Event-Driven](https://img.shields.io/badge/Event_Driven-FF6B6B?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS-8B5CF6?style=flat-square)
+![DDD](https://img.shields.io/badge/Domain_Driven_Design-059669?style=flat-square)
+![REST](https://img.shields.io/badge/RESTful_APIs-009688?style=flat-square)
+![OpenAPI](https://img.shields.io/badge/OpenAPI_/_Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![OIDC](https://img.shields.io/badge/OIDC-EB5424?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>Testing & Quality</b> (click to expand)</summary>
+<br/>
+<div align="center">
+
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
+![TestContainers](https://img.shields.io/badge/TestContainers-291A3F?style=flat-square&logo=testcontainers&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![K6](https://img.shields.io/badge/K6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=flat-square&logo=sonarlint&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+
+</div>
+</details>
 
 ---
 
-### Full Stack Engineer — Teletronics
+<div align="center">
 
-*03/2025 – 09/2025* | Enterprise Web Application
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30"> Key Achievements
 
-Worked on end-to-end development of a modern enterprise web application for a Dubai-based technology company, handling both backend architecture and frontend implementation.
+</div>
 
-- **Developed backend services** using NestJS with TypeScript, ensuring scalable and maintainable architecture.
-- **Designed and implemented RESTful APIs** supporting frontend requirements and third-party integrations.
-- **Delivered full-stack features** spanning both backend and frontend layers.
-- **Ensured code quality** through comprehensive testing, code reviews, and adherence to best practices.
+<table>
+<tr>
+<td width="50%">
 
-**Tech:** NestJS (TypeScript), Node.js, Git
+<h3 align="center">AI-Powered Search Platform</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/HelloFresh-99CC33?style=for-the-badge&logo=hellofresh&logoColor=white" />
+</p>
+
+Built an enterprise semantic search platform using **AWS Bedrock embeddings**, **OpenSearch KNN**, and a multi-stage pipeline handling query comprehension, vector search, and rule-based ranking across multiple markets.
+
+</td>
+<td width="50%">
+
+<h3 align="center">Retail IoT System</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Home_Depot-F96305?style=for-the-badge&logo=homedepot&logoColor=white" />
+</p>
+
+Developed a **QR-code-based shelf-out management system** for Home Depot retail stores across the US, enabling real-time inventory restocking workflows for store workers.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">Healthcare Modernization</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/ClinicMind-00B4D8?style=for-the-badge&logo=&logoColor=white" />
+</p>
+
+Led migration of a monolithic healthcare platform to **microservices**, improving deployment frequency by **40%** and reducing time-to-market for new features.
+
+</td>
+<td width="50%">
+
+<h3 align="center">Global Music Platform</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Warner_Music-000000?style=for-the-badge&logo=warnerbrosdiscovery&logoColor=white" />
+</p>
+
+Designed an event-driven distribution pipeline handling **millions of transactions daily** with sub-second latency. Achieved **99.9% availability**.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+| Metric | Achievement |
+|:---:|:---:|
+| **Deployment Frequency** | +40% improvement |
+| **Infrastructure Costs** | -25% reduction |
+| **System Availability** | 99.9% uptime |
+| **Release Cycles** | -30% faster |
+| **Team Ramp-up Time** | -50% with onboarding program |
+
+</div>
 
 ---
 
-### Java Software Engineer — Grid Dynamics (Home Depot)
+<div align="center">
 
-*12/2023 – 05/2025* | Retail Shelf-Out Management System
+## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Professional Experience
+
+</div>
+
+### <img src="https://img.shields.io/badge/Grid_Dynamics-000000?style=flat-square" /> Senior Software Engineer — Grid Dynamics (HelloFresh)
+> `10/2025 – Present` | **Semantic Search & AI Platform**
+
+<img src="https://img.shields.io/badge/CURRENT_ROLE-00C853?style=for-the-badge" />
+
+Built an enterprise-grade semantic search and merchandising platform (MXP) for HelloFresh with advanced full-text and vector-based semantic search, query comprehension with NLU, merchandising rules engine, auto-complete, and visual search across multiple markets.
+
+- Developed the **multi-stage search pipeline** (Discovery service) with configurable stages: query comprehension, vector search, rule-based ranking, and fallback mechanisms
+- Implemented **semantic search** using AWS Bedrock embeddings (Titan Embed Text v2) and OpenSearch KNN for natural language product discovery
+- Contributed to multiple microservices: Discovery, Query Understanding, Merchandising Rule Service, Indexer, and Vector Search Server
+- Developed **query comprehension** features using semantic graph processing
+- Implemented **multi-tenancy** with per-tenant configurations and hot-reload from AWS S3
+- Integrated **gRPC-based communication** with the Rule-Based Ranking Engine
+- Conducted **performance testing** using JMeter and K6
+
+<p>
+<img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square" />
+<img src="https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+### <img src="https://img.shields.io/badge/Teletronics-1a1a2e?style=flat-square" /> Full Stack Engineer — Teletronics
+> `03/2025 – 09/2025` | **Enterprise Web Application**
+
+End-to-end development of a modern enterprise web application for a Dubai-based technology company, handling both backend architecture and frontend implementation.
+
+- Developed **backend services** using NestJS with TypeScript
+- Designed and implemented **RESTful APIs** supporting frontend requirements and third-party integrations
+- Delivered **full-stack features** spanning backend and frontend layers
+- Ensured code quality through comprehensive testing and code reviews
+
+<p>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
+
+---
+
+### <img src="https://img.shields.io/badge/Grid_Dynamics-000000?style=flat-square" /> Java Software Engineer — Grid Dynamics (Home Depot)
+> `12/2023 – 05/2025` | **Retail Shelf-Out Management System**
 
 Developed a shelf-out management system for Home Depot retail stores across the United States, enabling store workers to scan QR codes for real-time inventory restocking insights.
 
-- **Developed backend services** for the QR code-based shelf-out system, enabling real-time product identification and restocking workflows.
-- **Designed and implemented RESTful APIs** supporting mobile scanning applications used by store workers.
-- **Managed and optimized** database schemas and queries for fast product and inventory data retrieval.
-- **Integrated the shelf-out system** with existing Home Depot inventory and warehouse management platforms.
-- **Wrote comprehensive unit and integration tests** ensuring system reliability and data consistency.
-- **Conducted code reviews** and collaborated with cross-functional teams.
+- Developed **backend services** for the QR code-based shelf-out system with real-time product identification
+- Designed and implemented **RESTful APIs** supporting mobile scanning applications
+- **Managed and optimized** database schemas and queries for fast data retrieval
+- **Integrated** with existing Home Depot inventory and warehouse management platforms
+- Wrote comprehensive **unit and integration tests**
+- **Conducted code reviews** and collaborated with cross-functional teams
 
-**Tech:** Java 17, Spring Boot, PostgreSQL, GCP, Git
+<p>
+<img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+</p>
 
 ---
 
-### Java Developer — ClinicMind (Verice)
-
-*08/2022 – 10/2023* | Healthcare Platform Modernization
+### <img src="https://img.shields.io/badge/ClinicMind-00B4D8?style=flat-square" /> Java Developer — ClinicMind (Verice)
+> `08/2022 – 10/2023` | **Healthcare Platform Modernization**
 
 Led the re-architecture of a monolithic healthcare system into a microservices-based platform, enhancing scalability and maintainability.
 
-- **Led legacy code reimplementation** to a more efficient and maintainable system.
-- **Migrated Oracle database to MongoDB**, optimizing data storage and retrieval processes.
-- **Refactored frontend** from GWT to **Angular 15**, modernizing the user experience and developer workflow.
-- **Implemented security enhancements**, addressing vulnerabilities and ensuring a robust system.
-- **Designed and implemented scheduled jobs**, automating key processes for increased efficiency.
-- **Led a team of 5 developers**, providing guidance, code reviews, and architectural mentorship.
+- **Led legacy code reimplementation** to a more efficient and maintainable system
+- **Migrated Oracle database to MongoDB**, optimizing data storage and retrieval
+- **Refactored frontend** from GWT to Angular 15
+- **Implemented security enhancements** and role-based access control
+- Designed and implemented **scheduled jobs** for automated workflows
+- **Led a team of 5 developers**, providing guidance, code reviews, and mentorship
 
-**Tech:** Java 17, Kotlin, JAX-RS, Angular 15, Oracle, MongoDB, AWS (EC2, S3), Docker
+<p>
+<img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/JAX--RS-FF4500?style=flat-square" />
+<img src="https://img.shields.io/badge/Angular_15-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-### Java Developer — WMG-ENKE (Warner Music Group)
-
-*01/2021 – 08/2022* | Global Music Distribution Platform
+### <img src="https://img.shields.io/badge/Warner_Music_Group-000000?style=flat-square" /> Java Developer — WMG-ENKE (Warner Music Group)
+> `01/2021 – 08/2022` | **Global Music Distribution Platform**
 
 Designed and developed microservices for automated music lifecycle management, handling millions of metadata transactions daily.
 
-- **Implemented AWS Lambda functions** for serverless processing of distribution events, reducing infrastructure costs by **25%**.
-- **Integrated Okta** for secure authentication and authorization across internal and external APIs.
-- **Containerized services** with Docker and orchestrated via **Amazon EKS**, achieving **99.9% availability**.
-- **Implemented Elasticsearch** for real-time search and analytics across the music catalog.
-- **Authored comprehensive technical documentation** and API specifications.
+- Implemented **AWS Lambda functions** for serverless processing, reducing infrastructure costs by **25%**
+- Integrated **Okta** for secure authentication and authorization
+- Containerized services with Docker and orchestrated via **Amazon EKS** achieving **99.9% availability**
+- Implemented **Elasticsearch** for real-time search and analytics
+- Authored comprehensive **technical documentation** and API specifications
 
-**Tech:** Java 17, Spring Boot, AWS (EKS, Lambda, S3, SQS, SNS, SES, CloudWatch, API Gateway), Aurora, Snowflake, React, Elasticsearch
+<p>
+<img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white" />
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+<img src="https://img.shields.io/badge/Aurora-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+</p>
 
 ---
 
-### Java Developer — EGS (Energize Global Services)
-
-*09/2019 – 01/2021* | Banking Chatbot System
+### <img src="https://img.shields.io/badge/EGS-2C3E50?style=flat-square" /> Java Developer — EGS (Energize Global Services)
+> `09/2019 – 01/2021` | **Banking Chatbot System**
 
 Integrated Dialogflow and Rasa NLP engines to power an intelligent banking assistant for internal operations.
 
-- **Built resilient Spring Boot backend services** handling user queries and transactional workflows.
-- **Conducted code reviews** and enforced coding standards across the team.
-- **Automated deployment and testing pipelines**, reducing release cycles by **30%**.
-- **Designed secure communication protocols** between chatbot and core banking systems.
+- Built **resilient Spring Boot backend services** handling user queries and transactional workflows
+- **Conducted code reviews** and enforced coding standards
+- **Automated deployment and testing pipelines**, reducing release cycles by **30%**
+- Designed **secure communication protocols** between chatbot and core banking systems
 
-**Tech:** Kotlin, Spring Boot, MySQL, Hibernate, NLP (Dialogflow, Rasa), Docker
+<p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+---
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/CMvLdjfjQnQAg/giphy.gif" width="25"> Leadership & Mentoring
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**Team Leadership**<br/>
+Led a team of 5 engineers, driving technical decisions, sprint planning, and career development
+
+</td>
+<td align="center" width="25%">
+
+**Architecture Reviews**<br/>
+Facilitated architecture review sessions ensuring alignment with best practices
+
+</td>
+<td align="center" width="25%">
+
+**Knowledge Sharing**<br/>
+Organized internal tech talks on microservices, cloud-native patterns, and security
+
+</td>
+<td align="center" width="25%">
+
+**Onboarding**<br/>
+Designed structured onboarding program, reducing ramp-up time by **50%**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Leadership & Mentoring
-
-- **Team Leadership**: Led a team of 5 engineers, driving technical decisions, sprint planning, and career development.
-- **Architecture Reviews**: Facilitated architecture review sessions to ensure alignment with best practices and business goals.
-- **Knowledge Sharing**: Organized internal tech talks on microservices, cloud-native patterns, and security.
-- **Onboarding**: Designed a structured onboarding program for new joiners, reducing ramp-up time by **50%**.
-
----
+<div align="center">
 
 ## Education
 
-**National University of Architecture and Construction of Armenia**
-*Bachelor of Science in Informatics & Computer Science*
-2014 – 2018
+**National University of Architecture and Construction of Armenia**<br/>
+*Bachelor of Science in Informatics & Computer Science* | 2014 – 2018
 
----
+<br/>
 
 ## Languages
 
-- **Armenian** — Native
-- **English** — Professional working proficiency (B2)
-- **Russian** — Professional working proficiency (B2)
+| Armenian | English | Russian |
+|:---:|:---:|:---:|
+| Native | Professional (B2) | Professional (B2) |
+
+</div>
 
 ---
 
-## GitHub Analytics
+<div align="center">
 
-![Arayik's GitHub stats](https://github-readme-stats.vercel.app/api?username=mailtoharutyunyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="25"> GitHub Analytics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mailtoharutyunyan&theme=dark&hide_border=false)
+<p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mailtoharutyunyan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mailtoharutyunyan&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mailtoharutyunyan&theme=dark&hide_border=false&layout=compact)
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mailtoharutyunyan&theme=tokyonight&hide_border=true&layout=compact" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mailtoharutyunyan&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
 
 ---
 
-## Let's Connect
+<div align="center">
 
-I'm always open to discussing new opportunities, architectural challenges, or collaborations. Feel free to reach out!
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Let's Connect
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arayik-harutyunyan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailtoharutyunyan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mailtoharutyunyan)
 
----
+<br/>
 
-> *"Engineering scalable systems. Designing for performance. Delivering production-ready solutions."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" />
+
+</div>
